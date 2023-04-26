@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:17:19:13 +0530] "GET / HTTP/1.1" 200 150 http-bio-9090-exec-1 393
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:17:19:14 +0530] "GET /demo/login HTTP/1.1" 200 1619 http-bio-9090-exec-3 109
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:17:19:15 +0530] "GET /demo/register HTTP/1.1" 200 6765 http-bio-9090-exec-4 82
+0:0:0:0:0:0:0:1 - - [25/Apr/2023:17:19:31 +0530] "GET /demo/send?name=danny+prabhu&age=19&gender=male&location=losangeles&email=hari%40gmail.com&password=14&phonenumber=1234 HTTP/1.1" 200 439 http-bio-9090-exec-5 151
